@@ -9,3 +9,5 @@ Live demo at: [https://codepen.io/melliatto/pen/myVGorL](https://codepen.io/mell
 
 
 Originally I built this for my [Dev Portfolio Website](https://elliottprogrammer.com).
+
+<img src="https://blog.elliottprogrammer.com/wp-content/uploads/2025/11/elliottprogrammer-level-up-mini-game.gif" alt="Gif of the Level-Up mini-game!" width="600"/>
