@@ -10,6 +10,6 @@ Live demo at: [https://codepen.io/melliatto/pen/myVGorL](https://codepen.io/mell
 
 Originally I built this for my [Dev Portfolio Website](https://elliottprogrammer.com).
 
-I rote a blog post about it here: [🕹️ Always Leveling Up: Building My Own Mini Game (and My Skills) as a Full-Stack Engineer](https://blog.elliottprogrammer.com/always-leveling-up-building-my-own-mini-game-and-my-skills-as-a-full-stack-engineer/)
+I wrote a blog post about it here: [🕹️ Always Leveling Up: Building My Own Mini Game (and My Skills) as a Full-Stack Engineer](https://blog.elliottprogrammer.com/always-leveling-up-building-my-own-mini-game-and-my-skills-as-a-full-stack-engineer/)
 
 <img src="https://blog.elliottprogrammer.com/wp-content/uploads/2025/11/elliottprogrammer-level-up-mini-game.gif" alt="Gif of the Level-Up mini-game!" width="600"/>
